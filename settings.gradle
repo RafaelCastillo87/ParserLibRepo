@@ -1,0 +1,3 @@
+rootProject.name='ParserLibrary'
+include ':app'
+include ':parserlib'
